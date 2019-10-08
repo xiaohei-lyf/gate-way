@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.project</groupId>
-    <artifactId>demo</artifactId>
+    <artifactId>gateWay</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>gateWay</name>
     <description>gate-way project goal duplicate service</description>
@@ -65,6 +65,7 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.7.13</version>
         </dependency>
+
 
 
     </dependencies>
